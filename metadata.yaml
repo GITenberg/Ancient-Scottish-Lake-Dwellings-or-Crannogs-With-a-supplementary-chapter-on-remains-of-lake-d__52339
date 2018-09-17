@@ -1,5 +1,8 @@
 _repo: Ancient-Scottish-Lake-Dwellings-or-Crannogs-With-a-supplementary-chapter-on-remains-of-lake-d__52339
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52339-h/images/coverpage.jpg
 creator:
   author:
     agent_name: Munro, Robert
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '46833'
     url: http://www.gutenberg.org/2009/agents/46833
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52339#Ancient-Scottish-Lake-Dwellings-or-Crannogs-With-a-supplementary-chapter-on-remains-of-lake-d_
 gutenberg_issued: '2016-06-15'
 gutenberg_type: Text
 identifiers:
